@@ -1,15 +1,14 @@
-# E-Voting-System
 # E-Voting System
 #### This project allows voters and election observers to verify that votes have been recorded, tallied and declared correctly, in a manner independent from the hardware and software running the election.
 #### Live Project Demo Link: https://7225-2409-4042-4c07-4169-f9af-7334-dad7-e530.in.ngrok.io/
 ## 1. Login Page:
-![image](https://ibb.co/YpfFr1R)
+![login](https://user-images.githubusercontent.com/84595079/220560309-02688452-0070-4470-9718-daa32819601c.png)
 ## 2. Register Page:
-![image](https://ibb.co/zGb47b9)
+![registration](https://user-images.githubusercontent.com/84595079/220560741-e5740688-c95e-49c4-b59a-9641514df69f.png)
 ## 3. Voter Profile:
-![image](https://ibb.co/K974Z8W)
+![dashboard_user](https://user-images.githubusercontent.com/84595079/220560112-90e5b5b9-a5a9-4564-bea4-ace640038c5c.png)
 ## 4. Group File:
-![image](https://ibb.co/PW23whT)
+![dashboard_gp](https://user-images.githubusercontent.com/84595079/220559571-24476581-ea52-47ec-83eb-73817278e658.png)
 
 <br>
 <br>
