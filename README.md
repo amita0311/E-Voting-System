@@ -1,6 +1,6 @@
 # E-Voting System
 #### This project allows voters and election observers to verify that votes have been recorded, tallied and declared correctly, in a manner independent from the hardware and software running the election.
-#### Live Project Demo Link: https://7225-2409-4042-4c07-4169-f9af-7334-dad7-e530.in.ngrok.io/
+#### Live Project Demo Link: [https://7225-2409-4042-4c07-4169-f9af-7334-dad7-e530.in.ngrok.io/](https://amita0311.github.io/E-Voting-System/)
 ## 1. Login Page:
 ![login](https://user-images.githubusercontent.com/84595079/220560309-02688452-0070-4470-9718-daa32819601c.png)
 ## 2. Register Page:
